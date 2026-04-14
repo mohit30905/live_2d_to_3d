@@ -1,0 +1,16 @@
+{
+  "class": "dummy",
+  "bbox": [
+    192,
+    144,
+    448,
+    336
+  ],
+  "bbox_center_px": [
+    320,
+    240
+  ],
+  "P3D_obj_est_m": null,
+  "sizes": null,
+  "midas_m_scale": null
+}
